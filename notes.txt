@@ -1,0 +1,17 @@
+What works:
+
+Raspberry pi
+
+Sending numbers over radio
+reading distance
+
+Arduino
+Receive number
+Calculate angle
+
+To do
+Measure to center of walkway
+calculate needed angle
+drive motor to desired angle
+Reset skulls to neutral position if distance exceeds a certain amount.
+Assign node numbers, odd = left even = right
